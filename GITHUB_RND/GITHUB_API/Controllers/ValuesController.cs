@@ -12,7 +12,7 @@ namespace GITHUB_API.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2","Vedant","Satish","Vijay", "Tanisha","Prabakran","Monita" };
+            return new string[] { "value1", "value2","Vedant","Satish","Vijay", "Tanisha","Prabakran","Monita Prasad" };
         }
 
         // GET api/values/5
